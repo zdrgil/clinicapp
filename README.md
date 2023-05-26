@@ -19,9 +19,11 @@ TypeScript is a superset of JavaScript which gives you static types and powerful
 
 ####  npm install package.json
 
-develop on amc
+develop on mac
 1.install expo
+
 2.please all url,and change all axios url to your server ip
+
 ![image](https://github.com/zdrgil/clinicapp/assets/122592824/ba0b045e-cdba-43a2-b150-453b40d22021)
 3. open expo server "npx expo start"
 4. open ios simulator "i"
