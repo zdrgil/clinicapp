@@ -17,11 +17,11 @@ TypeScript is a superset of JavaScript which gives you static types and powerful
 
 ## 🚀 How to use
 
-#### Creating a new project
+####  npm install package.json
 
-- Install the CLI: `npm i -g expo-cli`
-- Create a project: `npx create-react-native-app -t with-typescript`
-- `cd` into the project
+install expo
+
+
 
 ### Adding TypeScript to existing projects
 
